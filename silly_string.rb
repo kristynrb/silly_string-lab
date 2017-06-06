@@ -1,4 +1,3 @@
-#code your solutions here
-
+puts "Silly String Lab"
 
 
